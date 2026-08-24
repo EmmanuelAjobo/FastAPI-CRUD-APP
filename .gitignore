@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache/bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables — contains your DB credentials
+.env
+
+# Editor
+.vscode/
+
+# OS junk (if you ever work cross-platform)
+.DS_Store
+Thumbs.db
